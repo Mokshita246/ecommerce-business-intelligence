@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Business Intelligence
 
 ## Project Overview
@@ -37,3 +38,6 @@ Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Project Status
 Currently in the data understanding and project setup phase.
+=======
+# ecommerce-business-intelligence
+>>>>>>> 789b09976e0beca3cdc4c0b4db0e268c1d8f9ad7
